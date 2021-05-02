@@ -1,6 +1,6 @@
 # conda_envs
 
-# Installation
+## Installation
 
 ```
 conda env create -f py3.yml
